@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GURU1302/Mongodb-connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GURU1302/Mongodb-connect/issues"
+  },
+  "homepage": "https://github.com/GURU1302/Mongodb-connect#readme",
+  "dependencies": {
+    "mongodb": "^5.5.0"
+  }
+}
